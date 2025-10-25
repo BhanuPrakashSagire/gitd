@@ -13,7 +13,9 @@ twelve
 thirteen
 fourteen
 fivteen
-
+sixteen
+seventeen
 eighteen
 ninetenn
 twenty
+
